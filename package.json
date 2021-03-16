@@ -1,6 +1,7 @@
 {
   "name": "nav610.github.io",
   "homepage": "nav610.github.io",
+  "repository": "git@github.com:nav610/nav610.github.io.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
